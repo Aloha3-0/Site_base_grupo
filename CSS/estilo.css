@@ -23,10 +23,11 @@ body{
 }
 
 .nav-link {
-	color: honeydew;
-    font-family: fantasy;
+	color: rgb(0, 0, 0);
+    font-style: American Typewriter, serif;
     font-size: 20px;
     align-items: right;
+    text-shadow: 2px 2px 5px green;
 }
 
 .nav-link:hover {
