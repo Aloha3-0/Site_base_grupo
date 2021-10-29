@@ -31,7 +31,5 @@ body{
 h1{
   color: white;
   font-size: 120px;
-  margin: 5px;
-  margin-bottom: -60px;
   text-shadow: 2px 2px 5px green; 
 }
