@@ -34,3 +34,11 @@ h1{
   text-shadow: 2px 2px 5px green; 
   font-style:  LET, fantasy;
 }
+
+#menu{  
+    background-color: none;
+}
+
+#part2{
+    background-color: none;
+}
