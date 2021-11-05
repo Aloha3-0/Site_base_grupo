@@ -48,6 +48,13 @@ font-size: 40px;
 text-shadow: 4px 4px 7px green;
 }
 
+h3{
+    color: black;
+font-family: "Lucida Handwriting", Cursive;
+font-size: 30px;
+text-shadow: 4px 4px 7px rgb(0, 255, 0);
+}
+
 h4{
     color: white;
     font-size: 20px;
