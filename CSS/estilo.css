@@ -39,6 +39,7 @@ h1{
   font-size: 60px;
   text-shadow: 2px 2px 5px green; 
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 
 h4{
