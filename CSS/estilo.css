@@ -39,7 +39,13 @@ h1{
   font-size: 60px;
   text-shadow: 3px 3px 6px green; 
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+h2{
+    color: white;
+text-align: center;
+font-family: "Copperplate", Fantasy;
+font-size: 40px;
 }
 
 h4{
