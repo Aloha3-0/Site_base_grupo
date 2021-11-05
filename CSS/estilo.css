@@ -28,7 +28,8 @@ body{
     border-color: green;
 }
 .btn-primary:hover{
-    color: green;
+    color: black;
+    background-color: green;
     border-color:black;
 }
 h1{
