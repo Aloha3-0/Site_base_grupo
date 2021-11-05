@@ -27,7 +27,10 @@ body{
     background-color:black;
     border-color: green;
 }
-
+.btn-primary:hover{
+    color: green;
+    border-color:black;
+}
 h1{
   color: white;
   font-size: 80px;
