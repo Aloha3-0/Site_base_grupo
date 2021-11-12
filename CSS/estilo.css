@@ -44,15 +44,15 @@ h1{
 h2{
     color: white;
 font-family: "Copperplate", Fantasy;
-font-size: 40px;
-text-shadow: 6px 6px 9px green;
+font-size: 30px;
+text-shadow: 3px 3px 6px green;
 }
 
 h3{
     color: white;
 font-family: "Lucida Handwriting", Cursive;
 font-size: 30px;
-text-shadow: 4px 4px 7px rgb(0, 255, 0);
+text-shadow: 2px 2px 5px rgb(0, 255, 0);
 }
 
 h4{
